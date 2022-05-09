@@ -1,4 +1,4 @@
-# scripts
+# Cloud Network
 Various scripts from my time in the MSU cybersecurity Bootcamp
 
 This is a collection of Linux Scripts and Ansible Scripts from my CyberClass.
