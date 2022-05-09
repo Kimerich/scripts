@@ -1,0 +1,7 @@
+# Executing all the scripts (031X_XXXX) and appending them to a file 'Dealers_working_during_losses,' it has been discovered that Billy Jones was working the Roulette Wheel during all the losses
+
+# Using the following command it has been discovered the Billy Jones has working the roulette wheet 13 times when th4e casino suffered losses
+
+# sysadmin@UbuntuDesktop:~/03-student/Lucky_Duck_Investigations/Roulette_loss_Investigation/Dealer_Analysis$ grep -c "Billy Jones" Dealers_working_during_loss 
+# 13
+
